@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 021B-7114
+
+ Directory of C:\Users\ApliteInfo\Desktop\ProjectAddto git
+
+04/18/2021  02:05 PM    <DIR>          .
+04/18/2021  02:05 PM    <DIR>          ..
+04/18/2021  02:05 PM                 0 test.txt
+04/18/2021  02:03 PM                 0 test1.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  217,883,463,680 bytes free
+xxxxaa
